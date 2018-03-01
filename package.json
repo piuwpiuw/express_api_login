@@ -1,0 +1,15 @@
+{
+  "name": "express_api_login_authentication",
+  "version": "1.0.0",
+  "description": "Express API with login and sign up authentication ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/asmi77/express_api_login.git"
+  },
+  "author": "Asma Kevin Sandrine",
+  "license": "ISC"
+}
